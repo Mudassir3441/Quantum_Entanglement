@@ -256,6 +256,6 @@ This project not only contributes to the theoretical studies of quantum mechanic
 
 ### Credits
 
-- **Abdullah Awan**: mlkabawan336@gmail.com
+- **Mudassir Ali**: malikmudasirali46@gmail.com
 
 We express our gratitude for their contributions and commitment to advancing the field of quantum computing.
